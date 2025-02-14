@@ -32,7 +32,7 @@ Description of folder contents are as follows:
 * Analysis Visualizations: Contains all visualizations used for analysis and insights.
 * Sent to Client: Final Excel report of the process and recomendations.
 
-* Disclaimer:
+# Disclaimer:
 
 Instacart is a real company that’s made their data available online, however customer data is fictitious and used for the purposes of Career Foundry's Data Analytics program.
   
